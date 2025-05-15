@@ -1,0 +1,412 @@
+[
+  {
+    "@id": "http://example.org/sector",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/supply_chains"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/improves",
+    "@type": [
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    ]
+  },
+  {
+    "@id": "http://example.org/generates",
+    "@type": [
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    ]
+  },
+  {
+    "@id": "http://example.org/mapping_understanding_earth",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/needs_development_goals"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/health_climate_change",
+    "@type": [
+      "http://www.w3.org/2000/01/rdf-schema#Class"
+    ]
+  },
+  {
+    "@id": "http://example.org/populations",
+    "http://example.org/generates": [
+      {
+        "@id": "http://example.org/"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/introduction",
+    "@type": [
+      "http://example.org/to_exacerbate_existing_digital_243_anticipating_breakthroughs_focusing_on_three_pillars__open_research__safety_standards__and_responsible_deployment"
+    ],
+    "http://example.org/threatens": [
+      {
+        "@id": "http://example.org/to_exacerbate_existing_digital_divides"
+      },
+      {
+        "@id": "http://example.org/to_exacerbate_existing_digital_focusing_on_three_pillars__open_research__safety_standards__and_responsible_deployment"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/34",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/health_wellbeing_indicators_monitoring_framework"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/arts_education",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/development"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/we",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/struggles_cybersecurity_threats"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/platform",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/plagiarism"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/ffcs",
+    "http://example.org/generates": [
+      {
+        "@id": "http://example.org/electricity"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/machine_intelligence",
+    "http://example.org/generates": [
+      {
+        "@id": "http://example.org/simulations"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/quality",
+    "@type": [
+      "http://www.w3.org/2000/01/rdf-schema#Class"
+    ]
+  },
+  {
+    "@id": "http://example.org/organization",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/need"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/blooms",
+    "http://example.org/generates": [
+      {
+        "@id": "http://example.org/toxins"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/innovation",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/development"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/analytics",
+    "http://example.org/generates": [
+      {
+        "@id": "http://example.org/multisensory_experiences"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/which",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/drag"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/targets",
+    "http://example.org/threatens": [
+      {
+        "@id": "http://example.org/sustainability"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/blockchain_features",
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/transparency_access"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/wetland_islands",
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/water_quality"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/global_nature_planet_pulse",
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/monitoring_forecasting_accuracy_disaster_prediction"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/struggling_immediate_environmental_crisis_to_contain_environmental_management_degradation_technologies",
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/climate_impacts_being_quality"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/supports",
+    "@type": [
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    ]
+  },
+  {
+    "@id": "http://example.org/technologies",
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/health_resilience_access"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/wwwweforumorgstories202301howautomationwillpullusthrough_manufacturers",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/growth"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/researchers",
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/understanding"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/approach",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/time_entry_protection"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/challenges",
+    "@type": [
+      "http://example.org/health_climate_change"
+    ]
+  },
+  {
+    "@id": "http://example.org/autoimmune_diseases",
+    "@type": [
+      "http://example.org/quality"
+    ]
+  },
+  {
+    "@id": "http://example.org/threatens",
+    "@type": [
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    ]
+  },
+  {
+    "@id": "http://example.org/coykendall_manufacturers",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/growth"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/assumptions_uncertainties_megatrends",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/impact"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/technology",
+    "http://example.org/generates": [
+      {
+        "@id": "http://example.org/gains"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/funding_models",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/loops"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/job_creation",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/fire_risk"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/scenario_planning",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/uncertainty"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/global",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/aspects"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/microhabitats",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/pollinators"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/activity",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/rates"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/to_exacerbate_existing_digital_243_anticipating_breakthroughs_focusing_on_three_pillars__open_research__safety_standards__and_responsible_deployment",
+    "@type": [
+      "http://www.w3.org/2000/01/rdf-schema#Class"
+    ]
+  },
+  {
+    "@id": "http://example.org/skills",
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/health566"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/reduces",
+    "@type": [
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+    ]
+  },
+  {
+    "@id": "http://example.org/data_collection",
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/tracking"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/economy",
+    "http://example.org/generates": [
+      {
+        "@id": "http://example.org/23_trillion"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/they",
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/product_quality"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/disaster_preparedness_lifestyle_climate_proofing",
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/risks"
+      }
+    ]
+  },
+  {
+    "@id": "http://example.org/that",
+    "http://example.org/generates": [
+      {
+        "@id": "http://example.org/text"
+      }
+    ],
+    "http://example.org/improves": [
+      {
+        "@id": "http://example.org/quality"
+      },
+      {
+        "@id": "http://example.org/transactions_operations"
+      }
+    ],
+    "http://example.org/reduces": [
+      {
+        "@id": "http://example.org/bird_strikes"
+      }
+    ],
+    "http://example.org/supports": [
+      {
+        "@id": "http://example.org/health"
+      },
+      {
+        "@id": "http://example.org/water_management"
+      },
+      {
+        "@id": "http://example.org/biodiversity_fit"
+      }
+    ],
+    "http://example.org/threatens": [
+      {
+        "@id": "http://example.org/to_reverse_decades_of_progress_in_antimicrobial_resistance"
+      },
+      {
+        "@id": "http://example.org/future"
+      }
+    ]
+  }
+]

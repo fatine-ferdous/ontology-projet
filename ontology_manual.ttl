@@ -1,0 +1,112 @@
+@prefix ex: <http://example.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:health_climate_change a rdfs:Class .
+
+ex:quality a rdfs:Class .
+
+ex:to_exacerbate_existing_digital_243_anticipating_breakthroughs_focusing_on_three_pillars__open_research__safety_standards__and_responsible_deployment a rdfs:Class .
+
+ex:34 ex:reduces ex:health_wellbeing_indicators_monitoring_framework .
+
+ex:activity ex:reduces ex:rates .
+
+ex:analytics ex:generates ex:multisensory_experiences .
+
+ex:approach ex:reduces ex:time_entry_protection .
+
+ex:arts_education ex:supports ex:development .
+
+ex:assumptions_uncertainties_megatrends ex:supports ex:impact .
+
+ex:autoimmune_diseases a ex:quality .
+
+ex:blockchain_features ex:improves ex:transparency_access .
+
+ex:blooms ex:generates ex:toxins .
+
+ex:challenges a ex:health_climate_change .
+
+ex:coykendall_manufacturers ex:supports ex:growth .
+
+ex:data_collection ex:improves ex:tracking .
+
+ex:disaster_preparedness_lifestyle_climate_proofing ex:reduces ex:risks .
+
+ex:economy ex:generates ex:23_trillion .
+
+ex:ffcs ex:generates ex:electricity .
+
+ex:funding_models ex:supports ex:loops .
+
+ex:generates a rdf:Property .
+
+ex:global ex:supports ex:aspects .
+
+ex:global_nature_planet_pulse ex:improves ex:monitoring_forecasting_accuracy_disaster_prediction .
+
+ex:improves a rdf:Property .
+
+ex:innovation ex:supports ex:development .
+
+ex:introduction a ex:to_exacerbate_existing_digital_243_anticipating_breakthroughs_focusing_on_three_pillars__open_research__safety_standards__and_responsible_deployment ;
+    ex:threatens ex:to_exacerbate_existing_digital_divides,
+        ex:to_exacerbate_existing_digital_focusing_on_three_pillars__open_research__safety_standards__and_responsible_deployment .
+
+ex:job_creation ex:reduces ex:fire_risk .
+
+ex:machine_intelligence ex:generates ex:simulations .
+
+ex:mapping_understanding_earth ex:supports ex:needs_development_goals .
+
+ex:microhabitats ex:supports ex:pollinators .
+
+ex:organization ex:reduces ex:need .
+
+ex:platform ex:reduces ex:plagiarism .
+
+ex:populations ex:generates ex: .
+
+ex:reduces a rdf:Property .
+
+ex:researchers ex:improves ex:understanding .
+
+ex:scenario_planning ex:reduces ex:uncertainty .
+
+ex:sector ex:supports ex:supply_chains .
+
+ex:skills ex:supports ex:health566 .
+
+ex:struggling_immediate_environmental_crisis_to_contain_environmental_management_degradation_technologies ex:improves ex:climate_impacts_being_quality .
+
+ex:supports a rdf:Property .
+
+ex:targets ex:threatens ex:sustainability .
+
+ex:technologies ex:improves ex:health_resilience_access .
+
+ex:technology ex:generates ex:gains .
+
+ex:that ex:generates ex:text ;
+    ex:improves ex:quality,
+        ex:transactions_operations ;
+    ex:reduces ex:bird_strikes ;
+    ex:supports ex:biodiversity_fit,
+        ex:health,
+        ex:water_management ;
+    ex:threatens ex:future,
+        ex:to_reverse_decades_of_progress_in_antimicrobial_resistance .
+
+ex:they ex:improves ex:product_quality .
+
+ex:threatens a rdf:Property .
+
+ex:we ex:reduces ex:struggles_cybersecurity_threats .
+
+ex:wetland_islands ex:improves ex:water_quality .
+
+ex:which ex:reduces ex:drag .
+
+ex:wwwweforumorgstories202301howautomationwillpullusthrough_manufacturers ex:supports ex:growth .
+
